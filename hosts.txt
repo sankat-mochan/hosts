@@ -21,7 +21,8 @@
 #3.110.111.225	vit.codetantra.com	
 #10.10.0.57	vasavi1.codetantra.com
 #43.204.49.149	vasavi1.codetantra.com
-#15.207.237.166	staging.codetantra.com
-#13.127.84.237	staging.codetantra.com
 #3.110.111.225	kiet.codetantra.com
-#13.201.13.190	staging.codetantra.com
+
+
+# staging hosts
+43.204.49.149	staging.codetantra.com
